@@ -1,4 +1,4 @@
 # Git-demo
 This is my git demo
 <br>
-Auther: Malik Imran
+Auther: Malik Imran(Instructor)
